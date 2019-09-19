@@ -1,0 +1,7 @@
+COMPSCI 2XB3
+Team members: 
+Frank Su- Role(Team Leader && Graph Implementation) Student number(001411435)
+Khizar Siddiqui- Role(Lead Graphic designer) Student number(400109902)
+Ritwik Sahu- Role(Sorting/Searching implementation) Student number(400159312)
+Omer Siddiqui- Role(Meeting minute scribe, project log upkeep, specification writer and general help) Student number(400053192)
+"The work being submitted by us is our group work."
